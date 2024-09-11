@@ -11,11 +11,11 @@ I am a B.Tech student specializing in Information Technology, passionate about m
 
 ## Projects
 
-#### E-Commerce Integrity and Assurance System (E-CIAS)
-#### [Mental Health Wellbeing Web App](https://github.com/girish-gaikwad/healthcare-webpage)
-#### **In Progress**: Product Defect Identification using Machine Learning - Flipkart Grid 6.0
-#### **In Progress**: Female Safety System using Computer Vision and Deep Learning - SIH'24
-#### **In Progress**: Animal Detection for Garden Security Purpose
+#### 1. [E-Commerce Integrity and Assurance System (E-CIAS)](https://github.com/Tarunbalaji2003/DarkPattern_Buster.git)
+#### 2. [Mental Health Wellbeing Web App](https://github.com/girish-gaikwad/healthcare-webpage)
+#### 3. **In Progress**: Product Defect Identification using Machine Learning - Flipkart Grid 6.0
+#### 4. **In Progress**: Female Safety System using Computer Vision and Deep Learning - SIH'24
+#### 5. **In Progress**: Animal Detection for Garden Security Purpose
 
 ## 💻 Tech Stack:
 
