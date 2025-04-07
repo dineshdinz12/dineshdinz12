@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dinesh%20R&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+tech+universe!;Building+the+future+with+AI;Full-Stack+Developer;Machine+Learning+Enthusiast&center=true&size=20&color=58a6ff&duration=3000&pause=1000">
 </h1>
