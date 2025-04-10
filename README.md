@@ -138,9 +138,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-<div align="center">
  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dineshdinz12&theme=algolia&width=800)
-</div>
 
 <br>
 
