@@ -139,7 +139,7 @@
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshdinz12&theme=algolia" alt="dineshdinz12" />
+ ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dineshdinz12&theme=algolia&width=800)
 </div>
 
 <br>
