@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://github-stats-alpha.vercel.app/api?username=dineshdinz12&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="200">
+<img align="right" src="https://github-readme-stats-alpha.vercel.app/api?username=dineshdinz12&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="200">
 
 - 🎓 B.Tech IT student with expertise in **AI/ML**, **Computer Vision** & **Full-Stack Development**
 - 🚀 Building intelligent systems that solve real-world problems
@@ -69,12 +69,13 @@
       </div>
     </td>
     <td width="50%">
-      <br>
-      <p align="center">
-        <strong>💡 Always building something new!</strong>
-      </p>
+      <h3 align="center">💡 Always Building</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
+        <p>
+          <strong>Constantly creating new solutions!</strong>
+        </p>
+        <p>Check back often for new exciting projects</p>
       </div>
     </td>
   </tr>
@@ -92,26 +93,39 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract-2C2D72?style=for-the-badge&logo=tesseract&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-yellow?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-blue?style=for-the-badge)
 
 ### 🌐 Web & App Development 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Backend & Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🧰 Tools & More
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -123,6 +137,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
@@ -153,17 +169,29 @@ class DineshR:
         self.name = "Dinesh R"
         self.role = "AI Engineer & Full-Stack Developer"
         self.language_spoken = ["en_US", "Tamil", "Hindi"]
-        self.code = ["Python", "JavaScript", "C++", "Java", "HTML/CSS"]
+        self.code = ["Python", "JavaScript", "TypeScript", "C++", "Java", "HTML/CSS", "Rust"]
         
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together!")
     
     def current_focus(self):
         return {
-            "research": ["LLMs", "Generative AI", "RAG Systems"],
-            "development": ["AI Agents", "Full-Stack Web Apps", "Scalable Systems"],
-            "learning": ["Advanced Deep Learning", "Cloud Architecture", "System Design"]
+            "research": ["LLMs", "Generative AI", "RAG Systems", "Computer Vision"],
+            "development": ["AI Agents", "Full-Stack Web Apps", "Scalable Systems", "Cloud Architecture"],
+            "learning": ["Advanced Deep Learning", "Distributed Systems", "System Design", "Quantum Computing"]
         }
+        
+    def get_passion(self):
+        return "Creating technology that makes a positive impact on the world"
 
 me = DineshR()
 me.say_hi()
+```
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dineshdinz12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<div align="center">
+  <h3>💬 Let's connect and build together! 🚀</h3>
+</div>
