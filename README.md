@@ -37,48 +37,63 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚔 Police Cop Bot</h3>
+      <h3 align="center">🧑‍🎓 <a href="https://github.com/dineshdinz12/SyncCV" target="_blank">SyncCV</a></h3>
       <div align="center">
-        <a href="https://github.com/dineshdinz12/Police_cop_bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshdinz12&repo=Police_cop_bot&theme=react&hide_border=true" width="100%" alt="Police Cop Bot"/></a>
-        <p>
-          <strong>AI-powered police assistance platform:</strong> File FIRs, emergency services, RAG-based chatbots & multi-language support
-        </p>
-        <p><strong>Tech: </strong>Python, React, AI/ML, NLP, Multi-language Processing</p>
+        <strong>Student Face Recognition System:</strong> Real-time multi-camera face recognition for student identification using CCTV, FAISS, and InsightFace.<br>
+        <strong>Tech:</strong> Python, FAISS, InsightFace, MySQL, OpenCV
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📚 AI Legal Assistant</h3>
+      <h3 align="center">🌱 <a href="https://github.com/dineshdinz12/Saptabhumi" target="_blank">Saptabhumi</a></h3>
       <div align="center">
-        <a href="https://github.com/dineshdinz12/AI_Legal_Assistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshdinz12&repo=AI_Legal_Assistant&theme=react&hide_border=true" width="100%" alt="AI Legal Assistant"/></a>
-        <p>
-          <strong>Law-specialized generative AI:</strong> Helps users understand legal procedures with RAG-powered knowledge system
-        </p>
-        <p><strong>Tech: </strong>LLMs, Vector Databases, RAG, Legal NLP, UX Design</p>
+        <strong>Handcrafted Marketplace & AI Commerce:</strong> Platform for Indian artisans to sell, learn, and connect, with AI-powered product descriptions and community features.<br>
+        <strong>Tech:</strong> Next.js, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🛒 DarkPattern Buster</h3>
+      <h3 align="center">💻 <a href="https://github.com/dineshdinz12/LC_Java_Problems" target="_blank">LC_Java_Problems</a></h3>
       <div align="center">
-        <a href="https://github.com/Tarunbalaji2003/DarkPattern_Buster" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarunbalaji2003&repo=DarkPattern_Buster&theme=react&hide_border=true" width="100%" alt="DarkPattern Buster"/></a>
-        <p>
-          <strong>E-Commerce Integrity System:</strong> Detects deceptive UI patterns using ML to promote ethical designs
-        </p>
-        <p><strong>Tech: </strong>Machine Learning, Computer Vision, UI/UX Analysis</p>
+        <strong>LeetCode Java Solutions:</strong> Curated collection of LeetCode problems solved in Java for interview prep and learning.<br>
+        <strong>Tech:</strong> Java
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🫁 <a href="https://github.com/dineshdinz12/Lung_Disease_Multi_label_classification" target="_blank">Lung Disease Multi-label Classification</a></h3>
+      <div align="center">
+        <strong>Medical AI:</strong> Deep learning model for multi-label classification of lung diseases from X-ray images.<br>
+        <strong>Tech:</strong> Python, TensorFlow, OpenCV
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 <a href="https://github.com/dineshdinz12/shopping_trends" target="_blank">shopping_trends</a></h3>
+      <div align="center">
+        <strong>Data Science Project:</strong> Data analysis and visualization of shopping trends using machine learning.<br>
+        <strong>Tech:</strong> Python, Pandas, Matplotlib
       </div>
     </td>
     <td width="50%">
       <br>
       <p align="center">
-        <strong>💡 Always building something new!</strong>
+        <strong>💡 ...and more!</strong><br>
+        <em>Some of my best work is protected or private.<br>Contact me for demos or collaboration.</em>
       </p>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-      </div>
     </td>
   </tr>
 </table>
+</div>
+
+<br>
+
+## 🚀 Live Project Links
+
+<div align="center">
+  <a href="https://globalexport.vercel.app/" target="_blank"><b>🌍 Global Export Platform</b></a> &nbsp;|&nbsp;
+  <a href="https://thoothukudi-copbot.vercel.app/" target="_blank"><b>🚔 Thoothukudi CopBot</b></a> &nbsp;|&nbsp;
+  <a href="https://vuedrip.vercel.app/" target="_blank"><b>💧 VueDrip</b></a>
 </div>
 
 <br>
@@ -147,23 +162,29 @@
 
 ## 🌟 What I Bring to the Table
 
-```python
-class DineshR:
-    def __init__(self):
-        self.name = "Dinesh R"
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.language_spoken = ["en_US", "Tamil", "Hindi"]
-        self.code = ["Python", "JavaScript", "C++", "Java", "HTML/CSS"]
-        
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together!")
-    
-    def current_focus(self):
-        return {
-            "research": ["LLMs", "Generative AI", "RAG Systems"],
-            "development": ["AI Agents", "Full-Stack Web Apps", "Scalable Systems"],
-            "learning": ["Advanced Deep Learning", "Cloud Architecture", "System Design"]
-        }
+```java
+public class DineshR {
+    private String name = "Dinesh R";
+    private String role = "AI Engineer & Full-Stack Developer";
+    private String[] languagesSpoken = {"en_US", "Tamil", "Hindi"};
+    private String[] code = {"Java", "Python", "JavaScript", "C++", "HTML/CSS"};
 
-me = DineshR()
-me.say_hi()
+    public void sayHi() {
+        System.out.println("Thanks for visiting my profile! Let's build something amazing together!");
+    }
+
+    public Map<String, String[]> currentFocus() {
+        Map<String, String[]> focus = new HashMap<>();
+        focus.put("research", new String[]{"LLMs", "Generative AI", "RAG Systems"});
+        focus.put("development", new String[]{"AI Agents", "Full-Stack Web Apps", "Scalable Systems"});
+        focus.put("learning", new String[]{"Advanced Deep Learning", "Cloud Architecture", "System Design"});
+        return focus;
+    }
+
+    public static void main(String[] args) {
+        DineshR me = new DineshR();
+        me.sayHi();
+        // Print current focus areas
+        me.currentFocus().forEach((k, v) -> System.out.println(k + ": " + String.join(", ", v)));
+    }
+}
