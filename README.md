@@ -129,9 +129,9 @@ I believe every backend system should be built like infrastructure — reliable,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshdinz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffa500&icon_color=ffa500&text_color=ffa500" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dineshdinz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffa500&icon_color=ffa500&text_color=ffa500" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=ffa500" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=ffa500" />
 
 </div>
 
