@@ -1,30 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Dinesh%20R&fontSize=90&color=0:0f0c29,50:302b63,100:24243e&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Backend%20%26%20AI%20Engineer&descAlignY=75&descSize=22&descColor=a78bfa&stroke=a78bfa&strokeWidth=2" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+AI+Systems;LLM+Pipelines+%26+RAG+Architect;Real-Time+Data+%26+Backend+Engineer;Zafin+Global+Merit+Scholar+%7C+Top+4+Worldwide)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-dinesh--r.me-a78bfa?style=for-the-badge&logoColor=white)](https://dinesh-r.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-r12)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshdinz12)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@r.dineshdinz12)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.dineshdinz12@gmail.com)
 
-![Profile Views](https://komarum.ghpvc/?username=dineshdinz12&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
 
 </div>
 
----
 
 ## At a Glance
 
@@ -35,7 +19,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -45,7 +28,6 @@ I specialize in LLM pipelines, RAG systems, multi-agent orchestration, real-time
 
 I believe every backend system should be built like infrastructure — reliable, observable, and ready to scale before it needs to.
 
----
 
 ## Tech Stack
 
@@ -87,11 +69,9 @@ I believe every backend system should be built like infrastructure — reliable,
 
 </div>
 
----
-
 ## Experience
 
-<details open>
+<details >
 <summary><b>TripFactory.com — Software Development Engineer Intern</b> &nbsp;<code>Dec 2025 – Present · Bengaluru</code></summary>
 <br>
 
@@ -122,8 +102,6 @@ I believe every backend system should be built like infrastructure — reliable,
 
 </details>
 
----
-
 ## Featured Projects
 
 <div align="center">
@@ -139,13 +117,11 @@ I believe every backend system should be built like infrastructure — reliable,
 
 </div>
 
----
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dineshdinz12&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=dineshdinz12&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues&theme=flat&column=7" width="100%" />
 
 </div>
 
@@ -153,14 +129,15 @@ I believe every backend system should be built like infrastructure — reliable,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshdinz12&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshdinz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffa500&icon_color=ffa500&text_color=ffa500" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=ffa500" />
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=dineshdinz12&theme=radical&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&dates=888888" />
+<img width="90%" src="https://streak-stats.demolab.com/?user=dineshdinz12&hide_border=true&background=0d1117&stroke=ffa500&ring=ffa500&fire=ffa500&currStreakLabel=ffa500&sideNums=ffa500&currStreakNum=ffa500&dates=888888" />
 
 </div>
 
@@ -168,14 +145,15 @@ I believe every backend system should be built like infrastructure — reliable,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshdinz12&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ff6b6b&area=true&hide_border=true&area_color=a78bfa" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshdinz12&bg_color=0d1117&color=ffa500&line=ffa500&point=ffa500&area=true&hide_border=true&area_color=ffa500" width="100%" />
 
 </div>
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Let's+Build+Something+Remarkable&fontSize=20&fontColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Let's+Build+Something+Remarkable&fontSize=20&fontColor=ffa500&animation=fadeIn" width="100%"/>
+
+</div>
 
 **Have a project or opportunity in mind?**
 
