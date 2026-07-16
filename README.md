@@ -10,7 +10,6 @@ $\large{\color{#B8B8B8}\text{Backend and AI Systems Engineer}}$
 <a href="mailto:r.dineshdinz12@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 </div>
-
 <br>
 
 <h3 align="center">SYSTEMS IN THE WILD</h3>
@@ -84,19 +83,26 @@ $\large{\color{#B8B8B8}\text{Backend and AI Systems Engineer}}$
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dineshdinz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9" />
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=D4AF37&text_color=C9C9C9" />
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dineshdinz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9" />
+</td>
+<td width="50%" align="center">
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=D4AF37&text_color=C9C9C9" />
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
-<img src="https://streak-stats.demolab.com/?user=dineshdinz12&hide_border=true&background=0a0a0a&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=ffffff&sideLabels=C9C9C9&currStreakNum=ffffff&dates=888888" width="90%"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=dineshdinz12&hide_border=true&background=0a0a0a&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=ffffff&sideLabels=C9C9C9&currStreakNum=ffffff&dates=888888"/>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshdinz12&bg_color=0a0a0a&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true&hide_title=true" width="97%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dineshdinz12&bg_color=0a0a0a&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true&hide_title=true" />
 
 </div>
-
 <br>
 
 <div align="center">
