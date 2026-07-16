@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b0a0a,100:000000&height=260&section=header&text=DINESH%20R&fontSize=70&fontColor=E63946&animation=fadeIn&fontAlignY=42&desc=Backend%20%2B%20AI%20Systems%20Engineer&descAlignY=62&descSize=20&descColor=C9C9C9" width="100%"/>
+$\Huge{\color{#D4AF37}\textbf{DINESH R}}$
+
+$\large{\color{#B8B8B8}\text{Backend and AI Systems Engineer}}$
+
+<a href="https://www.dineshdinz.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/dineshdinz12"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dinesh-r12"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:r.dineshdinz12@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 </div>
-
-<br>
-
-<blockquote align="center">
-<p><b><i>"Simplicity is a prerequisite for reliability."</i></b></p>
-</blockquote>
 
 <br>
 
@@ -83,36 +84,29 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dineshdinz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=000000&title_color=E63946&icon_color=E63946&text_color=C9C9C9" />
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=000000&title_color=E63946&text_color=C9C9C9" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dineshdinz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=D4AF37&text_color=C9C9C9" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=dineshdinz12&hide_border=true&background=000000&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=E63946&sideNums=ffffff&sideLabels=C9C9C9&currStreakNum=ffffff&dates=888888" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=dineshdinz12&hide_border=true&background=0a0a0a&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=ffffff&sideLabels=C9C9C9&currStreakNum=ffffff&dates=888888" width="90%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshdinz12&bg_color=000000&color=E63946&line=E63946&point=ffffff&area=true&hide_border=true&hide_title=true" width="97%" />
-
-</div>
-
-<br>
-
-<h3 align="center">OPEN A CHANNEL</h3>
-
-<div align="center">
-
-<a href="https://www.dineshdinz.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=E63946"/></a>
-<a href="https://github.com/dineshdinz12"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=E63946"/></a>
-<a href="https://www.linkedin.com/in/dinesh-r12"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=E63946"/></a>
-<a href="mailto:r.dineshdinz12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=E63946"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshdinz12&bg_color=0a0a0a&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true&hide_title=true" width="97%" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img
-    src="https://chatgpt.com/s/m_6a588dcf28f48191a3ce7a4d2b5be1ba"
-    alt="And that's just the beginning" />
+
+<div align="center">
+<p><b>"Simplicity is a prerequisite for reliability"</b></p>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=dineshdinz12&label=Profile%20Views&color=D4AF37&style=for-the-badge"/>
+
+</div>
+
+<br>
