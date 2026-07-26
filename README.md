@@ -19,7 +19,7 @@ $\large{\color{#B8B8B8}\text{Backend and AI Systems Engineer}}$
 <table>
 <tr>
 <td width="33%" align="center">
-<a href="https://www.globalxport.tech/">
+<a href="https://globalexport.vercel.app/">
 <img src="https://api.microlink.io/?url=https://www.globalxport.tech/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
 <br><b>GlobalXport</b>
 </a>
