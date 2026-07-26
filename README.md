@@ -20,7 +20,7 @@ $\large{\color{#B8B8B8}\text{Backend and AI Systems Engineer}}$
 <tr>
 <td width="33%" align="center">
 <a href="https://globalexport.vercel.app/">
-<img src="https://api.microlink.io/?url=https://www.globalxport.tech/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+<img src="https://api.microlink.io/?url=https://globalexport.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
 <br><b>GlobalXport</b>
 </a>
 <br><sub>7 days → 4 hours · multi-agent LLM docs</sub>
