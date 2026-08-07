@@ -23,44 +23,49 @@ $\large{\color{#B8B8B8}\text{Backend and AI Systems Engineer}}$
 <img src="https://api.microlink.io/?url=https://globalexport.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
 <br><b>GlobalXport</b>
 </a>
-<br><sub>7 days → 4 hours · multi-agent LLM docs</sub>
+<br><sub>AI export automation · 7 days → 4 hours</sub>
 </td>
+
 <td width="33%" align="center">
-<a href="https://alloy-mind-ai.vercel.app/">
-<img src="https://api.microlink.io/?url=https://alloy-mind-ai.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
-<br><b>AlloyMind AI</b>
+<a href="https://docu-ai-omega.vercel.app/">
+<img src="https://api.microlink.io/?url=https://docu-ai-omega.vercel.app/&screenshot=true&meta=false&waitForTimeout=6000&embed=screenshot.url" width="100%"/>
+<br><b>DocuAI</b>
 </a>
-<br><sub>92.5% accuracy · sub-100ms inference</sub>
+<br><sub>AI document intelligence · RAG-powered assistant</sub>
 </td>
+
 <td width="33%" align="center">
 <a href="https://thoothukudi-copbot.vercel.app/">
 <img src="https://api.microlink.io/?url=https://thoothukudi-copbot.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
 <br><b>CopBot</b>
 </a>
-<br><sub>live AI assistant · law-enforcement ops</sub>
+<br><sub>Multilingual police assistant · AI operations</sub>
 </td>
 </tr>
+
 <tr>
 <td width="33%" align="center">
 <a href="https://heroforhumanity.com/">
 <img src="https://api.microlink.io/?url=https://heroforhumanity.com/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
 <br><b>Hero4Humanity</b>
 </a>
-<br><sub>education + healthcare access platform</sub>
+<br><sub>NGO platform · education, healthcare & empowerment</sub>
 </td>
+
 <td width="33%" align="center">
 <a href="https://commensality-project.vercel.app/">
 <img src="https://api.microlink.io/?url=https://commensality-project.vercel.app/&screenshot=true&meta=false&waitForTimeout=6000&embed=screenshot.url" width="100%"/>
 <br><b>Commensality Project</b>
 </a>
-<br><sub>headless commerce · Next.js + Shopify + Sanity</sub>
+<br><sub>Headless commerce · Next.js + Shopify + Sanity</sub>
 </td>
+
 <td width="33%" align="center">
-<a href="https://sync-cv-presentation-ui.vercel.app/">
-<img src="https://api.microlink.io/?url=https://sync-cv-presentation-ui.vercel.app/&screenshot=true&meta=false&waitForTimeout=6000&embed=screenshot.url" width="100%"/>
-<br><b>SyncCV</b>
+<a href="https://giles-brooker-group.vercel.app/">
+<img src="https://api.microlink.io/?url=https://giles-brooker-group.vercel.app/&screenshot=true&meta=false&waitForTimeout=6000&embed=screenshot.url" width="100%"/>
+<br><b>Giles Brooker Group</b>
 </a>
-<br><sub>real-time CCTV face recognition · FAISS</sub>
+<br><sub>EdTech consulting · workforce transformation</sub>
 </td>
 </tr>
 </table>
