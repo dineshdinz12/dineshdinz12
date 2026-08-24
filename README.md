@@ -91,10 +91,10 @@ $\large{\color{#B8B8B8}\text{Backend and AI Systems Engineer}}$
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dineshdinz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dineshdinz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9" />
 </td>
 <td width="50%" align="center">
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=D4AF37&text_color=C9C9C9" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshdinz12&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=D4AF37&text_color=C9C9C9" />
 </td>
 </tr>
 </table>
