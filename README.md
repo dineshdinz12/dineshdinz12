@@ -6,7 +6,7 @@ $\large{\color{#B8B8B8}\text{Backend and AI Systems Engineer}}$
 
 <a href="https://www.dineshdinz.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/dineshdinz12"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dinesh-r12"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dineshdinz12"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:r.dineshdinz12@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 </div>
@@ -53,19 +53,19 @@ $\large{\color{#B8B8B8}\text{Backend and AI Systems Engineer}}$
 </td>
 
 <td width="33%" align="center">
-<a href="https://commensality-project.vercel.app/">
-<img src="https://api.microlink.io/?url=https://commensality-project.vercel.app/&screenshot=true&meta=false&waitForTimeout=6000&embed=screenshot.url" width="100%"/>
-<br><b>Commensality Project</b>
+<a href="https://tallyline.software/">
+<img src="https://api.microlink.io/?url=https://tallyline.software/&screenshot=true&meta=false&waitForTimeout=6000&embed=screenshot.url" width="100%"/>
+<br><b>Tallyline</b>
 </a>
-<br><sub>Headless commerce · Next.js + Shopify + Sanity</sub>
+<br><sub>Finance automation SaaS · month-end close</sub>
 </td>
 
 <td width="33%" align="center">
-<a href="https://giles-brooker-group.vercel.app/">
-<img src="https://api.microlink.io/?url=https://giles-brooker-group.vercel.app/&screenshot=true&meta=false&waitForTimeout=6000&embed=screenshot.url" width="100%"/>
-<br><b>Giles Brooker Group</b>
+<a href="https://www.acceleratebps.com/">
+<img src="https://api.microlink.io/?url=https://www.acceleratebps.com/&screenshot=true&meta=false&waitForTimeout=6000&embed=screenshot.url" width="100%"/>
+<br><b>Accelerate BPS</b>
 </a>
-<br><sub>EdTech consulting · workforce transformation</sub>
+<br><sub>Operational consulting · Australian SMEs</sub>
 </td>
 </tr>
 </table>
@@ -112,9 +112,7 @@ $\large{\color{#B8B8B8}\text{Backend and AI Systems Engineer}}$
 
 <div align="center">
 
-<div align="center">
 <p><b>"Simplicity is a prerequisite for reliability"</b></p>
-</div>
 
 <img src="https://komarev.com/ghpvc/?username=dineshdinz12&label=Profile%20Views&color=D4AF37&style=for-the-badge"/>
 
